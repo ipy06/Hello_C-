@@ -6,9 +6,9 @@ using namespace std;
 int main (){
 	
 	string Text1 = "Ipy is" ;
-	string Text2 = " high 7" ;
+	string Text2 = " me" ;
 	cout << Text1 << Text2 << endl ;
-	string Text3 = " and 7 high is Ipy" ;
+	string Text3 = " and me is Ipy" ;
 	string Text = Text1 + Text2 + Text3 ; //Concatenation of Strings
 	cout << Text << endl ;
 	
