@@ -7,7 +7,7 @@
 using namespace std;
 int main ()
 {
-		int i;
+	int i;
 	for (i=0 ; i<100; i++){ 
 	
 	     for (i=0 ; i<2; i++){ 
@@ -124,7 +124,7 @@ int main ()
           	 system("color 03");
         	 this_thread :: sleep_for (chrono :: milliseconds (250));
      	     cout << "\n\t* * *             " ;
-     	    system("color 04");
+     	     system("color 04");
         	 this_thread :: sleep_for (chrono :: milliseconds (250));  
      	     cout << "\n\t* * * * * * * *   " ; 
      	     system("color 05");
