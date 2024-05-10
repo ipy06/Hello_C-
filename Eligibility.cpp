@@ -1,4 +1,7 @@
 #include<iostream>
+
+// Eligibility checker for the Mayor of Ottawa.
+
 using namespace std;
 
 int main (){
