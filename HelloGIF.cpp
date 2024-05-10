@@ -2,8 +2,13 @@
 #include<chrono>
 #include<thread>
 #include<stdlib.h>
-
 #include<windows.h>
+
+
+// This program makes a fun \"HelloGIF\" and can only be run on a windows computer.
+
+
+
 using namespace std;
 int main ()
 {
